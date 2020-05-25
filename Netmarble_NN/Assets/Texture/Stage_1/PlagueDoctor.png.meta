@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 48d4c60681c580440bcc8e86baf1bf8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 507908706202058018
+    second: PlagueDoctor 3_0
+  - first:
+      213: -7447724470998815187
+    second: PlagueDoctor 3_1
+  - first:
+      213: -2870500376273759159
+    second: PlagueDoctor 3_2
+  - first:
+      213: 6587743629359373133
+    second: PlagueDoctor 3_3
+  - first:
+      213: -1341844781133717963
+    second: PlagueDoctor 3_4
+  - first:
+      213: -8056089999720586774
+    second: PlagueDoctor 3_5
+  - first:
+      213: -4804166240857409571
+    second: PlagueDoctor 3_6
+  - first:
+      213: 4607228997440360143
+    second: PlagueDoctor 3_7
+  - first:
+      213: 5638397397962005239
+    second: PlagueDoctor 3_8
+  - first:
+      213: -4559556565328128833
+    second: PlagueDoctor 3_9
+  - first:
+      213: 799917194569556205
+    second: PlagueDoctor 3_10
+  - first:
+      213: 6142966575075085738
+    second: PlagueDoctor 3_11
+  - first:
+      213: 5738686453351482092
+    second: PlagueDoctor 3_12
+  - first:
+      213: 8621948696304261897
+    second: PlagueDoctor 3_13
+  - first:
+      213: -2085745340882890450
+    second: PlagueDoctor_0
+  - first:
+      213: 4092540256426334490
+    second: PlagueDoctor_1
+  - first:
+      213: 7193159819019363200
+    second: PlagueDoctor_2
+  - first:
+      213: -116278651042245427
+    second: PlagueDoctor_3
+  - first:
+      213: 4596649634180652911
+    second: PlagueDoctor_4
+  - first:
+      213: 7228355785121707227
+    second: PlagueDoctor_5
+  - first:
+      213: -5821400499052771140
+    second: PlagueDoctor_6
+  - first:
+      213: 2961626638222540791
+    second: PlagueDoctor_7
+  - first:
+      213: 6533099424693847562
+    second: PlagueDoctor_8
+  - first:
+      213: 5416420403028250898
+    second: PlagueDoctor_9
+  - first:
+      213: -7669762636581980482
+    second: PlagueDoctor_10
+  - first:
+      213: 6409578206349181569
+    second: PlagueDoctor_11
+  - first:
+      213: 4057182712346613459
+    second: PlagueDoctor_12
+  - first:
+      213: 6145101085706557328
+    second: PlagueDoctor_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.193
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlagueDoctor_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 487
+        width: 204
+        height: 348
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50143677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71b5cb9fbacdbb4ca737faa322c40d2
+      internalID: -2085745340882890450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlagueDoctor_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 575
+        width: 179
+        height: 267
+      alignment: 9
+      pivot: {x: 0.55307263, y: 0.5037453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07932c49bab759848a19fdb1578892d3
+      internalID: 4092540256426334490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlagueDoctor_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 691
+        width: 124
+        height: 149
+      alignment: 9
+      pivot: {x: 0.4879032, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f847c3a06b5e2642882bfb64b087f7e
+      internalID: -116278651042245427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlagueDoctor_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 245
+        width: 163
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f89e621b902f0b4cb05c7bd29ed3360
+      internalID: 4596649634180652911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlagueDoctor_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 325
+        width: 196
+        height: 214
+      alignment: 9
+      pivot: {x: 0.49744898, y: 0.5046729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfd4d787a649a749a7a6e96a45afb34
+      internalID: 7228355785121707227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlagueDoctor_6
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 431
+        width: 81
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5117022, y: 0.474653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfaf776b27f57b48a0f4de21fd438d1
+      internalID: -5821400499052771140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlagueDoctor_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 203
+        height: 304
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50164473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b24021094eb8124fa8e5cc10b23b571
+      internalID: 6533099424693847562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlagueDoctor_9
+      rect:
+        serializedVersion: 2
+        x: 426.13696
+        y: 14.915405
+        width: 168.86304
+        height: 403
+      alignment: 9
+      pivot: {x: 0.4907115, y: 0.49772853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21fc05f5f699f349ba4a341ea65cf92
+      internalID: 5416420403028250898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637036237672327699
+  assetBundleName: 
+  assetBundleVariant: 
